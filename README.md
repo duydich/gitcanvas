@@ -1,1 +1,1 @@
-Final project for EBU course - FIT - HANU
+Final project for EBU course - FIT - HANU!
