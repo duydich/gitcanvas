@@ -1,0 +1,185 @@
+{
+  "brand": "GitCanvas",
+  "version": "1.0",
+  "date": "2026-11-04",
+  "source_assets": {
+    "logo": {
+      "file": "Logo Gmail khinh.png",
+      "size": [
+        1254,
+        1254
+      ],
+      "sha256": "8041a109f8d7227b32e77556977853434dc3dbe9c1f5944879ce150244d24a0f"
+    },
+    "cover": {
+      "file": "Official ảnh bìa.png",
+      "size": [
+        2061,
+        763
+      ],
+      "sha256": "f15339bf1ad742d8096c399590fa770abd6e06915c009896596bc381146e2763"
+    }
+  },
+  "colors": {
+    "navy": {
+      "name": "Canvas Navy",
+      "hex": "#092A49",
+      "rgb": [
+        9,
+        42,
+        73
+      ],
+      "role": "Primary",
+      "use": "Chữ chính, viền, điều hướng, nút chính",
+      "source": "logo: cụm navy có tần suất cao"
+    },
+    "teal": {
+      "name": "Creative Teal",
+      "hex": "#1CC2A2",
+      "rgb": [
+        28,
+        194,
+        162
+      ],
+      "role": "Primary",
+      "use": "Icon, trạng thái chọn, mảng thương hiệu",
+      "source": "logo: cụm teal có tần suất cao"
+    },
+    "mint": {
+      "name": "Soft Mint",
+      "hex": "#A9F1DD",
+      "rgb": [
+        169,
+        241,
+        221
+      ],
+      "role": "Secondary",
+      "use": "Viền sticker, chip và mảng nền nhẹ",
+      "source": "logo: cụm mint có tần suất cao"
+    },
+    "blush": {
+      "name": "Gmail Blush",
+      "hex": "#FEC1C0",
+      "rgb": [
+        254,
+        193,
+        192
+      ],
+      "role": "Secondary",
+      "use": "Minh họa tai và má; điểm nhấn cảm xúc",
+      "source": "logo: cụm hồng có tần suất cao"
+    },
+    "aqua": {
+      "name": "Code Aqua",
+      "hex": "#15E1CB",
+      "rgb": [
+        21,
+        225,
+        203
+      ],
+      "role": "Accent",
+      "use": "Phím nhấn, con trỏ và chi tiết tương tác",
+      "source": "cover: cụm aqua đại diện"
+    },
+    "ivory": {
+      "name": "Warm Ivory",
+      "hex": "#FEF6F1",
+      "rgb": [
+        254,
+        246,
+        241
+      ],
+      "role": "Neutral",
+      "use": "Nền ấm, mascot và vùng nội dung",
+      "source": "logo: cụm nền ấm đại diện"
+    },
+    "white": {
+      "name": "Paper White",
+      "hex": "#FEFDFC",
+      "rgb": [
+        254,
+        253,
+        252
+      ],
+      "role": "Neutral",
+      "use": "Nền sáng và vùng đọc",
+      "source": "logo: cụm gần trắng đại diện"
+    },
+    "charcoal": {
+      "name": "Gmail Charcoal",
+      "hex": "#495364",
+      "rgb": [
+        73,
+        83,
+        100
+      ],
+      "role": "Neutral",
+      "use": "Chi tiết mascot và chữ phụ có kiểm tra tương phản",
+      "source": "logo: cụm xám đại diện"
+    }
+  },
+  "semantic": {
+    "background": "#FEF6F1",
+    "surface": "#FEFDFC",
+    "text": "#092A49",
+    "mutedText": "#495364",
+    "primaryButton": "#092A49",
+    "primaryButtonText": "#FEFDFC",
+    "accentSurface": "#1CC2A2",
+    "accentText": "#092A49",
+    "focusRing": "#092A49"
+  },
+  "typography": {
+    "body": "Arial, Helvetica, sans-serif",
+    "heading": "Arial, Helvetica, sans-serif",
+    "code": "Consolas, monospace",
+    "logo": "Custom illustrated lettering; do not typeset replacement"
+  },
+  "radius": {
+    "card": "20px",
+    "button": "12px",
+    "pill": "999px"
+  },
+  "spacing": [
+    4,
+    8,
+    12,
+    16,
+    24,
+    32,
+    48,
+    64
+  ],
+  "contrast_checks": [
+    {
+      "foreground": "navy",
+      "background": "white",
+      "ratio": 14.36
+    },
+    {
+      "foreground": "navy",
+      "background": "ivory",
+      "ratio": 13.67
+    },
+    {
+      "foreground": "navy",
+      "background": "mint",
+      "ratio": 11.34
+    },
+    {
+      "foreground": "navy",
+      "background": "teal",
+      "ratio": 6.45
+    },
+    {
+      "foreground": "white",
+      "background": "teal",
+      "ratio": 2.23
+    },
+    {
+      "foreground": "charcoal",
+      "background": "white",
+      "ratio": 7.64
+    }
+  ]
+}

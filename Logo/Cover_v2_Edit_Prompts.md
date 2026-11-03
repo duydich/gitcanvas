@@ -1,0 +1,11 @@
+# Cover orientation correction
+
+Edited with built-in Imagegen on 2026-11-03. Original preserved.
+
+## Desk objects
+
+Perform a precise localized orientation correction to this existing wide GitCanvas cover illustration. Preserve the entire composition, exact lettering, tagline and student-project text, both bulldog depictions, expression, paws, colors, art style, lighting, plants, monitor and floating canvas. Correct ONLY FOUR DESK OBJECTS: keyboard, mouse, closed notebook and pen. The bulldog is seated on the FAR side of the desk, facing toward the viewer; all four objects must be oriented for the DOG to use, not the viewer. KEYBOARD: rotate its key layout 180 degrees in the desk plane: the spacebar/front edge must be on the FAR side nearest the DOG's belly/paw; function-key/top row on the NEAR edge nearest viewer. Keep plausible compact keyboard perspective, canine paw resting at its correctly oriented working edge. MOUSE: rotate 180 degrees so buttons and wheel face toward the VIEWER/front of desk, its palm-rest end faces the DOG/far side, consistent with a user seated behind the desk. NOTEBOOK: rotate 180 degrees in the tabletop plane so its opening/front edge faces the DOG, its spine and cover orientation seen from the opposite side; turn its dog sticker upside down RELATIVE TO VIEWER so it is upright to the dog. PEN beside notebook: reverse its direction end-for-end in the tabletop plane and retain perspective. Do not mirror whole image, do not rotate text, do not move furniture, do not change mascot or logo. Maintain original wide aspect ratio and excellent crisp illustration quality.
+
+## Pen refinement
+
+Make one tiny precise edit to this banner. ONLY reverse the pen lying diagonally immediately right of the closed notebook and left of the keyboard: currently its pointed green writing nib is at lower-left toward viewer, and its blunt end is at upper-right. Swap those ends so the pointed writing nib is at UPPER-RIGHT toward the seated dog, and the blunt capped end is at LOWER-LEFT toward viewer. Keep pen at same position, length and diagonal angle. Preserve EVERY OTHER pixel-level visual element as closely as possible: corrected keyboard with spacebar toward the dog, mouse, rotated notebook with upside-down puppy sticker, all lettering, logo, mascots, illustration, colors and entire composition. No other changes.

@@ -1,0 +1,21 @@
+/* GitCanvas v1.0 | extracted representative colors, sRGB */
+:root {
+  --gc-navy: #092A49;
+  --gc-teal: #1CC2A2;
+  --gc-mint: #A9F1DD;
+  --gc-blush: #FEC1C0;
+  --gc-aqua: #15E1CB;
+  --gc-ivory: #FEF6F1;
+  --gc-white: #FEFDFC;
+  --gc-charcoal: #495364;
+  --gc-bg: var(--gc-ivory);
+  --gc-text: var(--gc-navy);
+  --gc-radius-card: 20px;
+  --gc-radius-button: 12px;
+  --gc-font: Arial, Helvetica, sans-serif;
+  --gc-code-font: Consolas, monospace;
+}
+.gc-button { background: var(--gc-navy); color: var(--gc-white); border: 2px solid var(--gc-navy); border-radius: var(--gc-radius-button); padding: 12px 20px; font: 700 16px var(--gc-font); }
+.gc-button-secondary { background: var(--gc-teal); color: var(--gc-navy); }
+.gc-button:focus-visible { outline: 3px solid var(--gc-navy); outline-offset: 4px; }
+.gc-card { background: var(--gc-white); color: var(--gc-navy); border: 1px solid var(--gc-mint); border-radius: var(--gc-radius-card); padding: 24px; }
