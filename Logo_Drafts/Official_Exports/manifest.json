@@ -1,0 +1,122 @@
+[
+  {
+    "name": "Official Logo 256x256",
+    "width": 256,
+    "height": 256,
+    "png_source": "Official original PNG resized with Lanczos; native size copied unchanged",
+    "svg_source": "True vector auto-trace; colored Bezier paths, no embedded bitmap or font dependencies",
+    "paths": 711,
+    "svg_file": "D:/EBU_Final/Logo/Official_Exports/Logo/Official Logo 256x256.svg",
+    "png_file": "D:/EBU_Final/Logo/Official_Exports/Logo/Official Logo 256x256.png"
+  },
+  {
+    "name": "Official Logo 512x512",
+    "width": 512,
+    "height": 512,
+    "png_source": "Official original PNG resized with Lanczos; native size copied unchanged",
+    "svg_source": "True vector auto-trace; colored Bezier paths, no embedded bitmap or font dependencies",
+    "paths": 711,
+    "svg_file": "D:/EBU_Final/Logo/Official_Exports/Logo/Official Logo 512x512.svg",
+    "png_file": "D:/EBU_Final/Logo/Official_Exports/Logo/Official Logo 512x512.png"
+  },
+  {
+    "name": "Official Logo 1024x1024",
+    "width": 1024,
+    "height": 1024,
+    "png_source": "Official original PNG resized with Lanczos; native size copied unchanged",
+    "svg_source": "True vector auto-trace; colored Bezier paths, no embedded bitmap or font dependencies",
+    "paths": 711,
+    "svg_file": "D:/EBU_Final/Logo/Official_Exports/Logo/Official Logo 1024x1024.svg",
+    "png_file": "D:/EBU_Final/Logo/Official_Exports/Logo/Official Logo 1024x1024.png"
+  },
+  {
+    "name": "Official Logo 1254x1254",
+    "width": 1254,
+    "height": 1254,
+    "png_source": "Official original PNG resized with Lanczos; native size copied unchanged",
+    "svg_source": "True vector auto-trace; colored Bezier paths, no embedded bitmap or font dependencies",
+    "paths": 711,
+    "svg_file": "D:/EBU_Final/Logo/Official_Exports/Logo/Official Logo 1254x1254.svg",
+    "png_file": "D:/EBU_Final/Logo/Official_Exports/Logo/Official Logo 1254x1254.png"
+  },
+  {
+    "name": "Official Logo 2048x2048",
+    "width": 2048,
+    "height": 2048,
+    "png_source": "Official original PNG resized with Lanczos; native size copied unchanged",
+    "svg_source": "True vector auto-trace; colored Bezier paths, no embedded bitmap or font dependencies",
+    "paths": 711,
+    "svg_file": "D:/EBU_Final/Logo/Official_Exports/Logo/Official Logo 2048x2048.svg",
+    "png_file": "D:/EBU_Final/Logo/Official_Exports/Logo/Official Logo 2048x2048.png"
+  },
+  {
+    "name": "Official Logo 4096x4096",
+    "width": 4096,
+    "height": 4096,
+    "png_source": "Official original PNG resized with Lanczos; native size copied unchanged",
+    "svg_source": "True vector auto-trace; colored Bezier paths, no embedded bitmap or font dependencies",
+    "paths": 711,
+    "svg_file": "D:/EBU_Final/Logo/Official_Exports/Logo/Official Logo 4096x4096.svg",
+    "png_file": "D:/EBU_Final/Logo/Official_Exports/Logo/Official Logo 4096x4096.png"
+  },
+  {
+    "name": "Official Background 1080x400",
+    "width": 1080,
+    "height": 400,
+    "png_source": "Official original PNG resized with Lanczos; native size copied unchanged",
+    "svg_source": "True vector auto-trace; colored Bezier paths, no embedded bitmap or font dependencies",
+    "paths": 4368,
+    "svg_file": "D:/EBU_Final/Logo/Official_Exports/Background/Official Background 1080x400.svg",
+    "png_file": "D:/EBU_Final/Logo/Official_Exports/Background/Official Background 1080x400.png"
+  },
+  {
+    "name": "Official Background 1640x607",
+    "width": 1640,
+    "height": 607,
+    "png_source": "Official original PNG resized with Lanczos; native size copied unchanged",
+    "svg_source": "True vector auto-trace; colored Bezier paths, no embedded bitmap or font dependencies",
+    "paths": 4368,
+    "svg_file": "D:/EBU_Final/Logo/Official_Exports/Background/Official Background 1640x607.svg",
+    "png_file": "D:/EBU_Final/Logo/Official_Exports/Background/Official Background 1640x607.png"
+  },
+  {
+    "name": "Official Background 2061x763",
+    "width": 2061,
+    "height": 763,
+    "png_source": "Official original PNG resized with Lanczos; native size copied unchanged",
+    "svg_source": "True vector auto-trace; colored Bezier paths, no embedded bitmap or font dependencies",
+    "paths": 4368,
+    "svg_file": "D:/EBU_Final/Logo/Official_Exports/Background/Official Background 2061x763.svg",
+    "png_file": "D:/EBU_Final/Logo/Official_Exports/Background/Official Background 2061x763.png"
+  },
+  {
+    "name": "Official Background 2560x948",
+    "width": 2560,
+    "height": 948,
+    "png_source": "Official original PNG resized with Lanczos; native size copied unchanged",
+    "svg_source": "True vector auto-trace; colored Bezier paths, no embedded bitmap or font dependencies",
+    "paths": 4368,
+    "svg_file": "D:/EBU_Final/Logo/Official_Exports/Background/Official Background 2560x948.svg",
+    "png_file": "D:/EBU_Final/Logo/Official_Exports/Background/Official Background 2560x948.png"
+  },
+  {
+    "name": "Official Background 3840x1422",
+    "width": 3840,
+    "height": 1422,
+    "png_source": "Official original PNG resized with Lanczos; native size copied unchanged",
+    "svg_source": "True vector auto-trace; colored Bezier paths, no embedded bitmap or font dependencies",
+    "paths": 4368,
+    "svg_file": "D:/EBU_Final/Logo/Official_Exports/Background/Official Background 3840x1422.svg",
+    "png_file": "D:/EBU_Final/Logo/Official_Exports/Background/Official Background 3840x1422.png"
+  },
+  {
+    "name": "Official Background 5120x1895",
+    "width": 5120,
+    "height": 1895,
+    "png_source": "Official original PNG resized with Lanczos; native size copied unchanged",
+    "svg_source": "True vector auto-trace; colored Bezier paths, no embedded bitmap or font dependencies",
+    "paths": 4368,
+    "svg_file": "D:/EBU_Final/Logo/Official_Exports/Background/Official Background 5120x1895.svg",
+    "png_file": "D:/EBU_Final/Logo/Official_Exports/Background/Official Background 5120x1895.png"
+  }
+]
